@@ -1,7 +1,0 @@
-# Change this:
-- name: Install dependencies
-  run: pip install -r requirements.txt
-
-# To this:
-- name: Install dependencies
-  run: pip install yfinance pandas numpy
